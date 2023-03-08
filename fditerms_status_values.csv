@@ -1,0 +1,19 @@
+value,description
+completed,production of the data has been completed
+historicalArchive,data has been stored in an offline storage facility
+obsolete,data is no longer relevant
+onGoing,data is continually being updated
+planned,fixed date has been established upon or by which the data will be created or updated
+required,data needs to be generated or updated
+underDevelopment,data is currently in the process of being created
+final,progress concluded and no changes will be accepted
+pending,"committed to, but not yet addressed"
+retired,item is no longer recommended for use. It has not been superseded by another item
+superseded,replaced by new
+tentative,provisional changes likely before resource becomes final or complete
+valid,acceptable under specific conditions
+accepted,agreed to by sponsor
+notAccepted,rejected by sponsor
+withdrawn,removed from consideration
+proposed,suggested that development needs to be undertaken
+deprecated,"resource superseded and will become obsolete, use only for historical purposes"
