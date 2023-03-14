@@ -18,7 +18,7 @@
 "fishing_mode","pending","fisheries",,"generic","attribute","fishing_mode",,"Fishing mode","Fishing mode",,,
 "fishery","proposed","fisheries",,"generic","attribute","fishery",,"Fishery","Fishery",,,
 "species","pending","fisheries",,"generic","attribute","species",,"Species","Species","ASFIS",,
-"school_type","deprecrated","fisheries","tuna","generic","attribute","school_type",,"School type","A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",,,
+"school_type","deprecated","fisheries","tuna","generic","attribute","school_type",,"School type","A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",,,
 "measurement","pending","measurement",,"generic","attribute","measurement",,"Measurement","Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",,,
 "measurement_type","pending","measurement",,"generic","attribute","measurement_type",,"Measurement type","Measurement type, eg. For catch : retained, discarded, nominal",,,
 "measurement_value","pending","measurement",,"generic","variable","measurement_value",,"Measurement value","Value measured","N/A","N/A",
