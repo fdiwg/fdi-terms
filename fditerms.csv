@@ -14,7 +14,7 @@ urn:fdi:term:fishing_fleet,fishing_fleet,,pending,fisheries,tuna,generic,attribu
 urn:fdi:term:vessel_type,vessel_type,,pending,fisheries,,generic,attribute,vessel_type,,Vessel type,Vessel type,ISSCFV,,
 urn:fdi:term:length_class,length_class,,pending,fisheries,,generic,attribute,length_class,,Length class,Lenght class,ISSCFV,,
 urn:fdi:term:fleet_segment,fleet_segment,,pending,fisheries,,generic,attribute,fleet_segment,,Fleet segment,Fleet segment,,,
-urn:fdi:term:gear_type,gear_type,,pending,fisheries,,generic,attribute,gear_type,,Gear type,Gear type,ISSCFG,,
+urn:fdi:term:gear_type,gear_type,,pending,fisheries,,generic,attribute,gear_type,,Fishing gear,Fishing gear,ISSCFG,,
 urn:fdi:term:gear_configuration,gear_configuration,,proposed,fisheries,,generic,attribute,gear_configuration,,Gear configuration,Gear configuration,,,
 urn:fdi:term:fishing_mode,fishing_mode,,pending,fisheries,,generic,attribute,fishing_mode,,Fishing mode,Fishing mode,,,
 urn:fdi:term:fishery,fishery,,proposed,fisheries,,generic,attribute,fishery,,Fishery,Fishery,,,
