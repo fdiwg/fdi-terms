@@ -1,55 +1,46 @@
 urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
-urn:fdi:term:geographic_identifier,geographic_identifier,NA,pending,geographic,NA,generic,attribute,geographic_identifier,NA,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured.,NA,NA,NA
-urn:fdi:term:geographic_coordinates,geographic_coordinates,NA,pending,geographic,NA,generic,attribute,geographic_coordinates,NA,Geographic coordinates,Geographic coordinates in Well-Known Text OGC format,N/A,N/A,NA
-urn:fdi:term:time,time,NA,pending,temporal,NA,generic,attribute,time,NA,Time,Time stamp,ISO 8601,N/A,NA
-urn:fdi:term:time_start,time_start,NA,pending,temporal,NA,generic,attribute,time_start,NA,Time start,Start time of the fact,ISO 8601,N/A,NA
-urn:fdi:term:time_end,time_end,NA,pending,temporal,NA,generic,attribute,time_end,NA,Time end,End time of the fact,ISO 8601,N/A,NA
-urn:fdi:term:year,year,NA,pending,temporal,NA,simplified,attribute,year,NA,Year,Year,N/A,N/A,NA
-urn:fdi:term:quarter,quarter,NA,pending,temporal,NA,simplified,attribute,quarter,NA,Quarter,Quarter,N/A,N/A,NA
-urn:fdi:term:month,month,NA,pending,temporal,NA,simplified,attribute,month,NA,Month,Month,N/A,N/A,NA
-urn:fdi:term:period,period,NA,pending,temporal,NA,simplified,attribute,period,NA,Period,Month number (1 to 12) or quarter identifier (Q1 to Q4),N/A,N/A,NA
-urn:fdi:term:flagstate,flagstate,NA,pending,fisheries,NA,generic,attribute,flagstate,NA,Flag state,Flag state,ISO 3166-1,M49,NA
-urn:fdi:term:fishingfleet,fishingfleet,fishing_fleet,deprecated,fisheries,tuna,generic,attribute,fishingfleet,NA,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",NA,NA,NA
-urn:fdi:term:fishing_fleet,fishing_fleet,NA,pending,fisheries,tuna,generic,attribute,fishingfleet,NA,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",NA,NA,NA
-urn:fdi:term:vessel_type,vessel_type,NA,pending,fisheries,NA,generic,attribute,vessel_type,NA,Vessel type,Vessel type,ISSCFV,NA,NA
-urn:fdi:term:length_class,length_class,NA,pending,fisheries,NA,generic,attribute,length_class,NA,Length class,Lenght class,ISSCFV,NA,NA
-urn:fdi:term:fleet_segment,fleet_segment,NA,pending,fisheries,NA,generic,attribute,fleet_segment,NA,Fleet segment,Fleet segment,NA,NA,NA
-urn:fdi:term:gear_type,gear_type,NA,pending,fisheries,NA,generic,attribute,gear_type,NA,Gear type,Gear type,ISSCFG,NA,NA
-urn:fdi:term:gear_configuration,gear_configuration,NA,proposed,fisheries,NA,generic,attribute,gear_configuration,NA,Gear configuration,Gear configuration,NA,NA,NA
-urn:fdi:term:fishing_mode,fishing_mode,NA,pending,fisheries,NA,generic,attribute,fishing_mode,NA,Fishing mode,Fishing mode,NA,NA,NA
-urn:fdi:term:fishery,fishery,NA,proposed,fisheries,NA,generic,attribute,fishery,NA,Fishery,Fishery,NA,NA,NA
-urn:fdi:term:species,species,NA,pending,fisheries,NA,generic,attribute,species,NA,Species,Species,ASFIS,NA,NA
-urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,generic,attribute,school_type,NA,School type,"A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",NA,NA,NA
-urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute,measurement,NA,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",NA,NA,NA
-urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
-urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,generic,variable,measurement_value,NA,Measurement value,Value measured,N/A,N/A,NA
-urn:fdi:term:measurement_unit,measurement_unit,NA,pending,measurement,NA,generic,attribute,measurement_unit,NA,Measurement unit,Unit of measure for the measurement type value.,NA,NA,NA
-urn:fdi:term:measurement_obs,measurement_obs,measurement_status,deprecated,measurement,NA,generic,attribute,measurement_obs,NA,Measurement observation,NA,N/A,N/A,NA
-urn:fdi:term:measurement_status,measurement_status,NA,pending,measurement,NA,generic,attribute,measurement_status,NA,Measurement status,NA,NA,NA,NA
-urn:fdi:term:catch_retained,catch_retained,NA,pending,fisheries,NA,simplified,variable,catch_retained,NA,Retained catch,NA,N/A,N/A,NA
-urn:fdi:term:catch_retained_unit,catch_retained_unit,NA,pending,fisheries,NA,simplified,attribute,catch_retained_unit,NA,Retained catch unit,NA,NA,NA,NA
-urn:fdi:term:catch_retained_status,catch_retained_status,NA,pending,fisheries,NA,simplified,attribute,catch_retained_status,NA,Retained catch status,NA,NA,NA,NA
-urn:fdi:term:catch_discarded,catch_discarded,NA,pending,fisheries,NA,simplified,variable,catch_discarded,NA,Discarded catch,NA,N/A,N/A,NA
-urn:fdi:term:catch_discarded_unit,catch_discarded_unit,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_unit,NA,Discarded catch unit,NA,NA,NA,NA
-urn:fdi:term:catch_discarded_status,catch_discarded_status,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_status,NA,Discarded catch status,NA,NA,NA,NA
-urn:fdi:term:catch_nominal,catch_nominal,NA,pending,fisheries,NA,simplified,variable,catch_nominal,NA,Nominal catch,NA,N/A,N/A,NA
-urn:fdi:term:catch_nominal_unit,catch_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_unit,NA,Nominal catch unit,NA,NA,NA,NA
-urn:fdi:term:catch_norminal_status,catch_norminal_status,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_status,NA,Nominal catch status,NA,NA,NA,NA
-urn:fdi:term:catch_obs,catch_obs,NA,deprecated,fisheries,NA,simplified,variable,catch_obs,NA,Catch observation,NA,N/A,N/A,NA
-urn:fdi:term:effort_fishing_duration,effort_fishing_duration,NA,pending,fisheries,NA,simplified,variable,effort_fishing_duration,NA,Fishing duration,NA,N/A,N/A,NA
-urn:fdi:term:effort_fishing_duration_unit,effort_fishing_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_unit,NA,Fishing duration unit,NA,NA,NA,NA
-urn:fdi:term:effort_fishing_duration_status,effort_fishing_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_status,NA,Fishing duration status,NA,NA,NA,NA
-urn:fdi:term:effort_nominal,effort_nominal,NA,pending,fisheries,NA,simplified,variable,effort_nominal,NA,Nominal effort,NA,N/A,N/A,NA
-urn:fdi:term:effort_nominal_unit,effort_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_unit,NA,Nominal effort unit,NA,NA,NA,NA
-urn:fdi:term:effort_nominal_status,effort_nominal_status,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_status,NA,Nominal effort status,NA,NA,NA,NA
-urn:fdi:term:effort_obs,effort_obs,NA,deprecated,fisheries,NA,simplified,variable,effort_obs,NA,Effort observation,NA,N/A,N/A,NA
-urn:fdi:term:fleet_engagement_number,fleet_engagement_number,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_number,NA,Fleet number,NA,N/A,N/A,NA
-urn:fdi:term:fleet_engagement_number_unit,fleet_engagement_number_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_unit,NA,Fleet number unit,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_number_status,fleet_engagement_number_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_status,NA,Fleet number status,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_capacity,fleet_engagement_capacity,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_capacity,NA,Fleet capacity,NA,N/A,N/A,NA
-urn:fdi:term:fleet_engagement_capacity_unit,fleet_engagement_capacity_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_unit,NA,Fleet capacity unit,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_capacity_status,fleet_engagement_capacity_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_status,NA,Fleet capacity status,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_enginepower,fleet_engagement_enginepower,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_enginepower,NA,Fleet engine power,NA,N/A,N/A,NA
-urn:fdi:term:fleet_engagement_enginepower_unit,fleet_engagement_enginepower_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_unit,NA,Fleet engine power unit,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_enginepower_status,fleet_engagement_enginepower_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_status,NA,Fleet engine power status,NA,NA,NA,NA
-urn:fdi:term:fleet_engagement_obs,fleet_engagement_obs,NA,deprecated,fisheries,NA,simplified,attribute,fleet_engagement_obs,NA,Fleet engagement observation,NA,N/A,N/A,NA
+urn:fdi:term:geographic_identifier,geographic_identifier,,pending,geographic,,generic,attribute,geographic_identifier,,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured. ,,,
+urn:fdi:term:geographic_coordinates,geographic_coordinates,,pending,geographic,,generic,attribute,geographic_coordinates,,Geographic coordinates,Geographic coordinates in Well-Known Text OGC format,N/A,N/A,
+urn:fdi:term:time,time,,pending,temporal,,generic,attribute,time,,Time,Time stamp,ISO 8601,N/A,
+urn:fdi:term:time_start,time_start,,pending,temporal,,generic,attribute,time_start,,Time start,Start time of the fact,ISO 8601,N/A,
+urn:fdi:term:time_end,time_end,,pending,temporal,,generic,attribute,time_end,,Time end,End time of the fact,ISO 8601,N/A,
+urn:fdi:term:year,year,,pending,temporal,,simplified,attribute,year,,Year,Year,N/A,N/A,
+urn:fdi:term:quarter,quarter,,pending,temporal,,simplified,attribute,quarter,,Quarter,Quarter,N/A,N/A,
+urn:fdi:term:month,month,,pending,temporal,,simplified,attribute,month,,Month,Month,N/A,N/A,
+urn:fdi:term:period,period,,pending,temporal,,simplified,attribute,period,,Period,Month number (1 to 12) or quarter identifier (Q1 to Q4),N/A,N/A,
+urn:fdi:term:flagstate,flagstate,,pending,fisheries,,generic,attribute,flagstate,,Flag state,Flag state,ISO 3166-1 ,M49,
+urn:fdi:term:fishingfleet,fishingfleet,fishing_fleet,deprecated,fisheries,tuna,generic,attribute,fishingfleet,,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",,,
+urn:fdi:term:fishing_fleet,fishing_fleet,,pending,fisheries,tuna,generic,attribute,fishingfleet,,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",,,
+urn:fdi:term:vessel_type,vessel_type,,pending,fisheries,,generic,attribute,vessel_type,,Vessel type,Vessel type,ISSCFV,,
+urn:fdi:term:length_class,length_class,,pending,fisheries,,generic,attribute,length_class,,Length class,Lenght class,ISSCFV,,
+urn:fdi:term:fleet_segment,fleet_segment,,pending,fisheries,,generic,attribute,fleet_segment,,Fleet segment,Fleet segment,,,
+urn:fdi:term:gear_type,gear_type,,pending,fisheries,,generic,attribute,gear_type,,Fishing gear,Fishing gear,ISSCFG,,
+urn:fdi:term:gear_configuration,gear_configuration,,proposed,fisheries,,generic,attribute,gear_configuration,,Gear configuration,Gear configuration,,,
+urn:fdi:term:fishing_mode,fishing_mode,,pending,fisheries,,generic,attribute,fishing_mode,,Fishing mode,Fishing mode,,,
+urn:fdi:term:fishery,fishery,,proposed,fisheries,,generic,attribute,fishery,,Fishery,Fishery,,,
+urn:fdi:term:species,species,,pending,fisheries,,generic,attribute,species,,Species,Species,ASFIS,,
+urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,generic,attribute,school_type,,School type,"A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",,,
+urn:fdi:term:measurement,measurement,,pending,measurement,,generic,attribute,measurement,,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",,,
+urn:fdi:term:measurement_type,measurement_type,,pending,measurement,,generic,attribute,measurement_type,,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",,,
+urn:fdi:term:measurement_value,measurement_value,,pending,measurement,,generic,variable,measurement_value,,Measurement value,Value measured,N/A,N/A,
+urn:fdi:term:measurement_unit,measurement_unit,,pending,measurement,,generic,attribute,measurement_unit,,Measurement unit,Unit of measure for the measurement type value.,,,
+urn:fdi:term:measurement_obs,measurement_obs,,pending,measurement,,generic,attribute,measurement_obs,,Measurement observation,,N/A,N/A,
+urn:fdi:term:catch_retained,catch_retained,,pending,fisheries,,simplified,variable,catch_retained,,Retained catch,,N/A,N/A,
+urn:fdi:term:catch_retained_unit,catch_retained_unit,,pending,fisheries,,simplified,attribute,catch_retained_unit,,Retained catch unit,,,,
+urn:fdi:term:catch_discarded,catch_discarded,,pending,fisheries,,simplified,variable,catch_discarded,,Discarded catch,,N/A,N/A,
+urn:fdi:term:catch_discarded_unit,catch_discarded_unit,,pending,fisheries,,simplified,attribute,catch_discarded_unit,,Discarded catch unit,,,,
+urn:fdi:term:catch_nominal,catch_nominal,,pending,fisheries,,simplified,variable,catch_nominal,,Nominal catch,,N/A,N/A,
+urn:fdi:term:catch_nominal_unit,catch_nominal_unit,,pending,fisheries,,simplified,attribute,catch_nominal_unit,,Nominal catch unit,,,,
+urn:fdi:term:catch_obs,catch_obs,,pending,fisheries,,simplified,variable,catch_obs,,Catch observation,,N/A,N/A,
+urn:fdi:term:effort_fishing_duration,effort_fishing_duration,,pending,fisheries,,simplified,variable,effort_fishing_duration,,Fishing duration,,N/A,N/A,
+urn:fdi:term:effort_fishing_duration_unit,effort_fishing_duration_unit,,pending,fisheries,,simplified,attribute,effort_fishing_duration_unit,,Fishing duration unit,,,,
+urn:fdi:term:effort_nominal,effort_nominal,,pending,fisheries,,simplified,variable,effort_nominal,,Nominal effort,,N/A,N/A,
+urn:fdi:term:effort_nominal_unit,effort_nominal_unit,,pending,fisheries,,simplified,attribute,effort_nominal_unit,,Nominal effort unit,,,,
+urn:fdi:term:effort_obs,effort_obs,,pending,fisheries,,simplified,variable,effort_obs,,Effort observation,,N/A,N/A,
+urn:fdi:term:fleet_engagement_number,fleet_engagement_number,,pending,fisheries,,simplified,variable,fleet_engagement_number,,Fleet number,,N/A,N/A,
+urn:fdi:term:fleet_engagement_number_unit,fleet_engagement_number_unit,,pending,fisheries,,simplified,attribute,fleet_engagement_number_unit,,Fleet number unit,,,,
+urn:fdi:term:fleet_engagement_capacity,fleet_engagement_capacity,,pending,fisheries,,simplified,variable,fleet_engagement_capacity,,Fleet capacity,,N/A,N/A,
+urn:fdi:term:fleet_engagement_capacity_unit,fleet_engagement_capacity_unit,,pending,fisheries,,simplified,attribute,fleet_engagement_capacity_unit,,Fleet capacity unit,,,,
+urn:fdi:term:fleet_engagement_enginepower,fleet_engagement_enginepower,,pending,fisheries,,simplified,variable,fleet_engagement_enginepower,,Fleet engine power,,N/A,N/A,
+urn:fdi:term:fleet_engagement_enginepower_unit,fleet_engagement_enginepower_unit,,pending,fisheries,,simplified,attribute,fleet_engagement_enginepower_unit,,Fleet engine power unit,,,,
+urn:fdi:term:fleet_engagement_obs,fleet_engagement_obs,,pending,fisheries,,simplified,attribute,fleet_engagement_obs,,Fleet engagement observation,,N/A,N/A,
