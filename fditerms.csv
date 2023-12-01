@@ -1,7 +1,8 @@
 urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
 urn:fdi:term:geographic_identifier,geographic_identifier,NA,pending,geographic,NA,generic,attribute,geographic_identifier,NA,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured.,NA,NA,NA
 urn:fdi:term:geographic_coordinates,geographic_coordinates,NA,pending,geographic,NA,generic,attribute,geographic_coordinates,NA,Geographic coordinates,Geographic coordinates in Well-Known Text OGC format,N/A,N/A,NA
-urn:fdi:term:water_area_type,time,NA,pending,geographic,NA,generic,attribute,time,NA,Water area type,Water area type,CWP,N/A,NA
+urn:fdi:term:water_area_type,time,NA,pending,geographic,NA,generic,attribute,water_area_type,NA,Water area type,Water area type,CWP,N/A,NA
+urn:fdi:term:water_area,time,NA,pending,geographic,NA,generic,attribute,water_area,NA,Water area,Water area,CWP,N/A,NA
 urn:fdi:term:time,time,NA,pending,temporal,NA,generic,attribute,time,NA,Time,Time stamp,ISO 8601,N/A,NA
 urn:fdi:term:time_start,time_start,NA,pending,temporal,NA,generic,attribute,time_start,NA,Time start,Start time of the fact,ISO 8601,N/A,NA
 urn:fdi:term:time_end,time_end,NA,pending,temporal,NA,generic,attribute,time_end,NA,Time end,End time of the fact,ISO 8601,N/A,NA
