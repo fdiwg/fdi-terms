@@ -19,6 +19,7 @@ urn:fdi:term:gear_configuration,gear_configuration,NA,proposed,fisheries,NA,gene
 urn:fdi:term:fishing_mode,fishing_mode,NA,pending,fisheries,NA,generic,attribute,fishing_mode,NA,Fishing mode,Fishing mode,NA,NA,NA
 urn:fdi:term:fishery,fishery,NA,proposed,fisheries,NA,generic,attribute,fishery,NA,Fishery,Fishery,NA,NA,NA
 urn:fdi:term:species,species,NA,pending,fisheries,NA,generic,attribute,species,NA,Species,Species,ASFIS,NA,NA
+urn:fdi:term:fishery_product,fishery_product,NA,pending,fisheries,NA,generic,attribute,fishery_product,NA,Fishery product,Fishery product,NA,NA,NA
 urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,generic,attribute,school_type,NA,School type,"A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",NA,NA,NA
 urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute,measurement,NA,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",NA,NA,NA
 urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
@@ -53,6 +54,7 @@ urn:fdi:term:fleet_engagement_enginepower,fleet_engagement_enginepower,NA,pendin
 urn:fdi:term:fleet_engagement_enginepower_unit,fleet_engagement_enginepower_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_unit,NA,Fleet engine power unit,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_enginepower_status,fleet_engagement_enginepower_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_status,NA,Fleet engine power status,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_obs,fleet_engagement_obs,NA,deprecated,fisheries,NA,simplified,attribute,fleet_engagement_obs,NA,Fleet engagement observation,NA,N/A,N/A,NA
+urn:fdi:term:trade_commodity,trade_type,NA,pending,fisheries,NA,simplified,variable,trade_type,NA,Trade commodity,NA,N/A,N/A,NA
 urn:fdi:term:trade_type,trade_type,NA,pending,fisheries,NA,simplified,variable,trade_type,NA,Trade type,NA,N/A,N/A,NA
 urn:fdi:term:trade_quantity,trade_quantity,NA,pending,fisheries,NA,simplified,variable,trade_quantity,NA,Trade quantity,NA,N/A,N/A,NA
 urn:fdi:term:trade_quantity_unit,trade_quantity_unit,NA,pending,fisheries,NA,simplified,variable,trade_quantity_unit,NA,Trade quantity unit,NA,N/A,N/A,NA
