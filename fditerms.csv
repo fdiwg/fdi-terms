@@ -53,3 +53,10 @@ urn:fdi:term:fleet_engagement_enginepower,fleet_engagement_enginepower,NA,pendin
 urn:fdi:term:fleet_engagement_enginepower_unit,fleet_engagement_enginepower_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_unit,NA,Fleet engine power unit,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_enginepower_status,fleet_engagement_enginepower_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_status,NA,Fleet engine power status,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_obs,fleet_engagement_obs,NA,deprecated,fisheries,NA,simplified,attribute,fleet_engagement_obs,NA,Fleet engagement observation,NA,N/A,N/A,NA
+urn:fdi:term:trade_type,trade_type,NA,pending,fisheries,NA,simplified,variable,trade_type,NA,Trade type,NA,N/A,N/A,NA
+urn:fdi:term:trade_quantity,trade_quantity,NA,pending,fisheries,NA,simplified,variable,trade_quantity,NA,Trade quantity,NA,N/A,N/A,NA
+urn:fdi:term:trade_quantity_unit,trade_quantity_unit,NA,pending,fisheries,NA,simplified,variable,trade_quantity_unit,NA,Trade quantity unit,NA,N/A,N/A,NA
+urn:fdi:term:trade_quantity_status,trade_quantity_status,NA,pending,fisheries,NA,simplified,variable,trade_quantity_status,NA,Trade quantity status,NA,N/A,N/A,NA
+urn:fdi:term:trade_value,trade_value,NA,pending,fisheries,NA,simplified,variable,trade_value,NA,Trade quantity,NA,N/A,N/A,NA
+urn:fdi:term:trade_value_unit,trade_value_unit,NA,pending,fisheries,NA,simplified,variable,trade_value_unit,NA,Trade value unit,NA,N/A,N/A,NA
+urn:fdi:term:trade_value_status,trade_value_status,NA,pending,fisheries,NA,simplified,variable,trade_value_status,NA,Trade value status,NA,N/A,N/A,NA
