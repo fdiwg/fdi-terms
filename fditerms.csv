@@ -31,6 +31,8 @@ urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,gener
 urn:fdi:term:measurement_unit,measurement_unit,NA,pending,measurement,NA,generic,attribute,measurement_unit,NA,Measurement unit,Unit of measure for the measurement type value.,NA,NA,NA
 urn:fdi:term:measurement_obs,measurement_obs,measurement_status,deprecated,measurement,NA,generic,attribute,measurement_obs,NA,Measurement observation,NA,N/A,N/A,NA
 urn:fdi:term:measurement_status,measurement_status,NA,pending,measurement,NA,generic,attribute,measurement_status,NA,Measurement status,NA,NA,NA,NA
+urn:fdi:term:bycatch_total,bycatch_total,NA,pending,fisheries,NA,simplified,variable,bycatch_total,NA,Total bycatch,NA,NA,NA,NA
+urn:fdi:term:bycatch_total_unit,bycatch_total_unit,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_unit,NA,Total bycatch unit,NA,NA,NA,NA
 urn:fdi:term:catch_retained,catch_retained,NA,pending,fisheries,NA,simplified,variable,catch_retained,NA,Retained catch,NA,N/A,N/A,NA
 urn:fdi:term:catch_retained_unit,catch_retained_unit,NA,pending,fisheries,NA,simplified,attribute,catch_retained_unit,NA,Retained catch unit,NA,NA,NA,NA
 urn:fdi:term:catch_retained_status,catch_retained_status,NA,pending,fisheries,NA,simplified,attribute,catch_retained_status,NA,Retained catch status,NA,NA,NA,NA
