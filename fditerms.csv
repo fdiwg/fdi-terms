@@ -25,6 +25,7 @@ urn:fdi:term:fishery,fishery,NA,proposed,fisheries,NA,generic,attribute,fishery,
 urn:fdi:term:species,species,NA,pending,fisheries,NA,generic,attribute,species,NA,Species,Species,ASFIS,NA,NA
 urn:fdi:term:fishery_product,fishery_product,NA,pending,fisheries,NA,generic,attribute,fishery_product,NA,Fishery product,Fishery product,NA,NA,NA
 urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,generic,attribute,school_type,NA,School type,"A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",NA,NA,NA
+urn:fdi:term:landing_site,landing_site,NA,pending,fisheries,NA,generic,attribute,landing_site,NA,Landing site,Landing site,NA,NA,NA
 urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute,measurement,NA,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",NA,NA,NA
 urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
 urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,generic,variable,measurement_value,NA,Measurement value,Value measured,N/A,N/A,NA
