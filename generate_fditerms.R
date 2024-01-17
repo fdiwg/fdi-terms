@@ -34,3 +34,7 @@ all_measurement_terms = do.call("rbind", lapply(measurements$code, function(code
 }))
 
 readr::write_csv(all_measurement_terms, "fdi_simplified_measurement_terms.csv")
+
+#merge fditerms
+fditerms = do.call("rbind", lapply(list.files(pattern = "fdi_"), readr::read_csv))
+readr::write_csv(fditerms, "fditerms.csv")
