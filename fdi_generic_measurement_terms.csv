@@ -1,0 +1,7 @@
+urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
+urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute,measurement,NA,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",NA,NA,NA
+urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
+urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,generic,variable,measurement_value,NA,Measurement value,Value measured,N/A,N/A,NA
+urn:fdi:term:measurement_unit,measurement_unit,NA,pending,measurement,NA,generic,attribute,measurement_unit,NA,Measurement unit,Unit of measure for the measurement type value.,NA,NA,NA
+urn:fdi:term:measurement_obs,measurement_obs,measurement_status,deprecated,measurement,NA,generic,attribute,measurement_obs,NA,Measurement observation,NA,N/A,N/A,NA
+urn:fdi:term:measurement_status,measurement_status,NA,pending,measurement,NA,generic,attribute,measurement_status,NA,Measurement status,NA,NA,NA,NA

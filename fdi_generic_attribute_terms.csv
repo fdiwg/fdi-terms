@@ -1,0 +1,30 @@
+urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
+urn:fdi:term:geographic_identifier,geographic_identifier,NA,pending,geographic,NA,generic,attribute,geographic_identifier,NA,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured.,NA,NA,NA
+urn:fdi:term:geographic_coordinates,geographic_coordinates,NA,pending,geographic,NA,generic,attribute,geographic_coordinates,NA,Geographic coordinates,Geographic coordinates in Well-Known Text OGC format,N/A,N/A,NA
+urn:fdi:term:water_area_type,water_area_type,NA,pending,geographic,NA,generic,attribute,water_area_type,NA,Water area type,Water area type,CWP,N/A,NA
+urn:fdi:term:water_area,water_area,NA,pending,geographic,NA,generic,attribute,water_area,NA,Water area,Water area,CWP,N/A,NA
+urn:fdi:term:georegion,georegion,NA,pending,geographic,NA,generic,attribute,georegion,NA,Georegion,Georegion,N/A,N/A,NA
+urn:fdi:term:time,time,NA,pending,temporal,NA,generic,attribute,time,NA,Time,Time stamp,ISO 8601,N/A,NA
+urn:fdi:term:time_start,time_start,NA,pending,temporal,NA,generic,attribute,time_start,NA,Time start,Start time of the fact,ISO 8601,N/A,NA
+urn:fdi:term:time_end,time_end,NA,pending,temporal,NA,generic,attribute,time_end,NA,Time end,End time of the fact,ISO 8601,N/A,NA
+urn:fdi:term:year,year,NA,pending,temporal,NA,simplified,attribute,year,NA,Year,Year,N/A,N/A,NA
+urn:fdi:term:quarter,quarter,NA,pending,temporal,NA,simplified,attribute,quarter,NA,Quarter,Quarter,N/A,N/A,NA
+urn:fdi:term:month,month,NA,pending,temporal,NA,simplified,attribute,month,NA,Month,Month,N/A,N/A,NA
+urn:fdi:term:period,period,NA,pending,temporal,NA,simplified,attribute,period,NA,Period,Month number (1 to 12) or quarter identifier (Q1 to Q4),N/A,N/A,NA
+urn:fdi:term:country_and_territory,country_and_territory,NA,pending,fisheries,NA,generic,attribute,country_and_territory,NA,Country & territory,Country & territory,ISO 3166-1,M49,NA
+urn:fdi:term:flagstate,flagstate,NA,pending,fisheries,NA,generic,attribute,flagstate,NA,Flag state,Flag state,ISO 3166-1,M49,NA
+urn:fdi:term:fishingfleet,fishingfleet,fishing_fleet,deprecated,fisheries,tuna,generic,attribute,fishingfleet,NA,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",NA,NA,NA
+urn:fdi:term:fishing_fleet,fishing_fleet,NA,pending,fisheries,tuna,generic,attribute,fishingfleet,NA,Fishing fleet,"Group of fishing vessels authorized to operate in a RFMO convention area / area of competence, and whose fishing operations and catches of species are responsibility of, and accounted for by a political entity or sub-entity recognized by the corresponding t-RFMO. To be noted that the actual occurrences of the “Fishing fleet” concept do not necessarily refer or correspond to a recognized country (e.g.: EUR - European Union, FRAT – French territories), nor to a distinct member / contracting party / cooperating, non-contracting party of a t-RFMO (e.g.: EU,ESP - EU (Spain), TWN – Chinese Taipei / Taiwan province of China – for some t-RFMOs). The proposed list of fishing fleet codes also includes a generic reference that applies to fishing operations and catches from unidentified sources (e.g.: NEI - not elsewhere identified).",NA,NA,NA
+urn:fdi:term:vessel_type,vessel_type,NA,pending,fisheries,NA,generic,attribute,vessel_type,NA,Vessel type,Vessel type,ISSCFV,NA,NA
+urn:fdi:term:vessel_length_class,vessel_length_class,NA,pending,fisheries,NA,generic,attribute,vessel_length_class,NA,Vessel length class,Vessel length class,NA,NA,NA
+urn:fdi:term:fleet_segment,fleet_segment,NA,pending,fisheries,NA,generic,attribute,fleet_segment,NA,Fleet segment,Fleet segment,NA,NA,NA
+urn:fdi:term:gear_type,gear_type,NA,pending,fisheries,NA,generic,attribute,gear_type,NA,Fishing gear,Fishing gear,ISSCFG,NA,NA
+urn:fdi:term:gear_configuration,gear_configuration,NA,proposed,fisheries,NA,generic,attribute,gear_configuration,NA,Gear configuration,Gear configuration,NA,NA,NA
+urn:fdi:term:fishing_mode,fishing_mode,NA,pending,fisheries,NA,generic,attribute,fishing_mode,NA,Fishing mode,Fishing mode,NA,NA,NA
+urn:fdi:term:fishery,fishery,NA,proposed,fisheries,NA,generic,attribute,fishery,NA,Fishery,Fishery,NA,NA,NA
+urn:fdi:term:species,species,NA,pending,fisheries,NA,generic,attribute,species,NA,Species,Species,ASFIS,NA,NA
+urn:fdi:term:fishery_product,fishery_product,NA,pending,fisheries,NA,generic,attribute,fishery_product,NA,Fishery product,Fishery product,NA,NA,NA
+urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,generic,attribute,school_type,NA,School type,"A school is a group of fishes evolving together. The type of school indicates the nature of the school on which the catch has been made: free school, log school, unknown, dolphin",NA,NA,NA
+urn:fdi:term:landing_site,landing_site,NA,pending,fisheries,NA,generic,attribute,landing_site,NA,Landing site,Landing site,NA,NA,NA
+urn:fdi:term:trade_commodity,trade_type,NA,pending,fisheries,NA,generic,attribute,trade_communityt,NA,Trade commodity,NA,N/A,N/A,NA
+urn:fdi:term:trade_type,trade_type,NA,pending,fisheries,NA,generic,attribute,trade_type,NA,Trade type,NA,N/A,N/A,NA

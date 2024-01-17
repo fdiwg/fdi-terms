@@ -1,0 +1,34 @@
+urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
+urn:fdi:term:catch_nominal,catch_nominal,NA,pending,fisheries,NA,simplified,variable,catch_nominal,NA,Nominal catch,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_unit,catch_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_unit,NA,Nominal catch unit,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_status,catch_nominal_status,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_status,NA,Nominal catch status,NA,NA,NA,NA
+urn:fdi:term:catch_retained,catch_retained,NA,pending,fisheries,NA,simplified,variable,catch_retained,NA,Retained catch,NA,NA,NA,NA
+urn:fdi:term:catch_retained_unit,catch_retained_unit,NA,pending,fisheries,NA,simplified,attribute,catch_retained_unit,NA,Retained catch unit,NA,NA,NA,NA
+urn:fdi:term:catch_retained_status,catch_retained_status,NA,pending,fisheries,NA,simplified,attribute,catch_retained_status,NA,Retained catch status,NA,NA,NA,NA
+urn:fdi:term:catch_discarded,catch_discarded,NA,pending,fisheries,NA,simplified,variable,catch_discarded,NA,Discarded catch,NA,NA,NA,NA
+urn:fdi:term:catch_discarded_unit,catch_discarded_unit,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_unit,NA,Discarded catch unit,NA,NA,NA,NA
+urn:fdi:term:catch_discarded_status,catch_discarded_status,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_status,NA,Discarded catch status,NA,NA,NA,NA
+urn:fdi:term:effort_nominal,effort_nominal,NA,pending,fisheries,NA,simplified,variable,effort_nominal,NA,Nominal effort,NA,NA,NA,NA
+urn:fdi:term:effort_nominal_unit,effort_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_unit,NA,Nominal effort unit,NA,NA,NA,NA
+urn:fdi:term:effort_nominal_status,effort_nominal_status,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_status,NA,Nominal effort status,NA,NA,NA,NA
+urn:fdi:term:effort_fishing_duration,effort_fishing_duration,NA,pending,fisheries,NA,simplified,variable,effort_fishing_duration,NA,Fishing duration,NA,NA,NA,NA
+urn:fdi:term:effort_fishing_duration_unit,effort_fishing_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_unit,NA,Fishing duration unit,NA,NA,NA,NA
+urn:fdi:term:effort_fishing_duration_status,effort_fishing_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_status,NA,Fishing duration status,NA,NA,NA,NA
+urn:fdi:term:bycatch_total,bycatch_total,NA,pending,fisheries,NA,simplified,variable,bycatch_total,NA,Total bycatch,NA,NA,NA,NA
+urn:fdi:term:bycatch_total_unit,bycatch_total_unit,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_unit,NA,Total bycatch unit,NA,NA,NA,NA
+urn:fdi:term:bycatch_total_status,bycatch_total_status,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_status,NA,Total bycatch status,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_number,fleet_engagement_number,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_number,NA,Fleet number,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_number_unit,fleet_engagement_number_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_unit,NA,Fleet number unit,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_number_status,fleet_engagement_number_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_status,NA,Fleet number status,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_capacity,fleet_engagement_capacity,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_capacity,NA,Fleet capacity,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_capacity_unit,fleet_engagement_capacity_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_unit,NA,Fleet capacity unit,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_capacity_status,fleet_engagement_capacity_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_status,NA,Fleet capacity status,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_enginepower,fleet_engagement_enginepower,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_enginepower,NA,Fleet engine power,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_enginepower_unit,fleet_engagement_enginepower_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_unit,NA,Fleet engine power unit,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_enginepower_status,fleet_engagement_enginepower_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_enginepower_status,NA,Fleet engine power status,NA,NA,NA,NA
+urn:fdi:term:trade_quantity,trade_quantity,NA,pending,fisheries,NA,simplified,variable,trade_quantity,NA,Trade quantity,NA,NA,NA,NA
+urn:fdi:term:trade_quantity_unit,trade_quantity_unit,NA,pending,fisheries,NA,simplified,attribute,trade_quantity_unit,NA,Trade quantity unit,NA,NA,NA,NA
+urn:fdi:term:trade_quantity_status,trade_quantity_status,NA,pending,fisheries,NA,simplified,attribute,trade_quantity_status,NA,Trade quantity status,NA,NA,NA,NA
+urn:fdi:term:trade_value,trade_value,NA,pending,fisheries,NA,simplified,variable,trade_value,NA,Trade calue,NA,NA,NA,NA
+urn:fdi:term:trade_value_unit,trade_value_unit,NA,pending,fisheries,NA,simplified,attribute,trade_value_unit,NA,Trade calue unit,NA,NA,NA,NA
+urn:fdi:term:trade_value_status,trade_value_status,NA,pending,fisheries,NA,simplified,attribute,trade_value_status,NA,Trade calue status,NA,NA,NA,NA
