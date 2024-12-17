@@ -1,6 +1,7 @@
 urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
-urn:fdi:term:geographic_identifier,geographic_identifier,NA,pending,geographic,NA,generic,attribute,geographic_identifier,NA,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured.,NA,NA,NA
+urn:fdi:term:geographic_identifier,geographic_identifier,NA,deprecated,geographic,NA,generic,attribute,geographic_identifier,NA,Geographic Identifier,Unique identifier of the spatial area (zone) where the fact has taken place or has been measured.,NA,NA,NA
 urn:fdi:term:geographic_coordinates,geographic_coordinates,NA,pending,geographic,NA,generic,attribute,geographic_coordinates,NA,Geographic coordinates,Geographic coordinates in Well-Known Text OGC format,N/A,N/A,NA
+urn:fdi:term:fishing_area,fishing_area,NA,pending,geographic,NA,generic,attribute,fishing_area,NA,Fishing area,Unique identifier/code of the fishing area,N/A,N/A,NA
 urn:fdi:term:water_area_type,water_area_type,NA,pending,geographic,NA,generic,attribute,water_area_type,NA,Water area type,Water area type,CWP,N/A,NA
 urn:fdi:term:water_area,water_area,NA,pending,geographic,NA,generic,attribute,water_area,NA,Water area,Water area,CWP,N/A,NA
 urn:fdi:term:georegion,georegion,NA,pending,geographic,NA,generic,attribute,georegion,NA,Georegion,Georegion,N/A,N/A,NA
