@@ -3,3 +3,4 @@ urn:fdi:term:year,year,NA,pending,temporal,NA,simplified,attribute,year,NA,Year,
 urn:fdi:term:quarter,quarter,NA,pending,temporal,NA,simplified,attribute,quarter,NA,Quarter,Quarter,N/A,N/A,NA
 urn:fdi:term:month,month,NA,pending,temporal,NA,simplified,attribute,month,NA,Month,Month,N/A,N/A,NA
 urn:fdi:term:period,period,NA,pending,temporal,NA,simplified,attribute,period,NA,Period,Month number (1 to 12) or quarter identifier (Q1 to Q4),N/A,N/A,NA
+urn:fdi:term:day,day,NA,pending,temporal,NA,simplified,attribute,day,NA,Day,Day of the month,N/A,N/A,NA
