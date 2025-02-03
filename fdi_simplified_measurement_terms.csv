@@ -20,6 +20,9 @@ urn:fdi:term:effort_fishing_reference_period_status,effort_fishing_reference_per
 urn:fdi:term:effort_fishable_duration,effort_fishable_duration,NA,pending,fisheries,NA,simplified,variable,effort_fishable_duration,NA,Fishable duration,NA,NA,NA,NA
 urn:fdi:term:effort_fishable_duration_unit,effort_fishable_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_fishable_duration_unit,NA,Fishable duration unit,NA,NA,NA,NA
 urn:fdi:term:effort_fishable_duration_status,effort_fishable_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_fishable_duration_status,NA,Fishable duration status,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient,effort_activity_coefficient,NA,pending,fisheries,NA,simplified,variable,effort_activity_coefficient,NA,Activity coefficient,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_unit,effort_activity_coefficient_unit,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_unit,NA,Activity coefficient unit,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_status,effort_activity_coefficient_status,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_status,NA,Activity coefficient status,NA,NA,NA,NA
 urn:fdi:term:bycatch_total,bycatch_total,NA,pending,fisheries,NA,simplified,variable,bycatch_total,NA,Total bycatch,NA,NA,NA,NA
 urn:fdi:term:bycatch_total_unit,bycatch_total_unit,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_unit,NA,Total bycatch unit,NA,NA,NA,NA
 urn:fdi:term:bycatch_total_status,bycatch_total_status,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_status,NA,Total bycatch status,NA,NA,NA,NA
