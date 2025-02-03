@@ -31,6 +31,7 @@ urn:fdi:term:school_type,school_type,fishing_mode,deprecated,fisheries,tuna,gene
 urn:fdi:term:landing_site,landing_site,NA,pending,fisheries,NA,generic,attribute,landing_site,NA,Landing site,Landing site,NA,NA,NA
 urn:fdi:term:trade_commodity,trade_type,NA,pending,fisheries,NA,generic,attribute,trade_communityt,NA,Trade commodity,NA,N/A,N/A,NA
 urn:fdi:term:trade_type,trade_type,NA,pending,fisheries,NA,generic,attribute,trade_type,NA,Trade type,NA,N/A,N/A,NA
+urn:fdi:term:fishing_trip,fishing_trip,NA,pending,fisheries,NA,generic,attribute,fishing_trip,NA,Trade type,NA,N/A,N/A,NA
 urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute,measurement,NA,Measurement,"Measurement done, eg. Catch, effort, catch at size, etc. Corresponds to the notion of fact. In context of a data collection framework, it may match the definition of a data task",NA,NA,NA
 urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
 urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,generic,variable,measurement_value,NA,Measurement value,Value measured,N/A,N/A,NA
