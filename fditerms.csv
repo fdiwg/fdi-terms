@@ -66,6 +66,9 @@ urn:fdi:term:bycatch_total_status,bycatch_total_status,NA,pending,fisheries,NA,s
 urn:fdi:term:fleet_engagement_number,fleet_engagement_number,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_number,NA,Fleet number,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_number_unit,fleet_engagement_number_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_unit,NA,Fleet number unit,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_number_status,fleet_engagement_number_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_number_status,NA,Fleet number status,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_max,fleet_engagement_max,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_max,NA,Max fleet number,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_max_unit,fleet_engagement_max_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_max_unit,NA,Max fleet number unit,NA,NA,NA,NA
+urn:fdi:term:fleet_engagement_max_status,fleet_engagement_max_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_max_status,NA,Max fleet number status,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_capacity,fleet_engagement_capacity,NA,pending,fisheries,NA,simplified,variable,fleet_engagement_capacity,NA,Fleet capacity,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_capacity_unit,fleet_engagement_capacity_unit,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_unit,NA,Fleet capacity unit,NA,NA,NA,NA
 urn:fdi:term:fleet_engagement_capacity_status,fleet_engagement_capacity_status,NA,pending,fisheries,NA,simplified,attribute,fleet_engagement_capacity_status,NA,Fleet capacity status,NA,NA,NA,NA
