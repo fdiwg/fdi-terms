@@ -1,22 +1,64 @@
 urn,term,replaced_by,status_fdi,domain,subdomain,model,type,code,uri,label,definition,preferred_classification_system,alternate_classification_system,cwp_endorsement
-urn:fdi:term:catch_nominal,catch_nominal,NA,pending,fisheries,NA,simplified,variable,catch_nominal,NA,Nominal catch,NA,NA,NA,NA
-urn:fdi:term:catch_nominal_unit,catch_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_unit,NA,Nominal catch unit,NA,NA,NA,NA
-urn:fdi:term:catch_nominal_status,catch_nominal_status,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_status,NA,Nominal catch status,NA,NA,NA,NA
-urn:fdi:term:catch_retained,catch_retained,NA,pending,fisheries,NA,simplified,variable,catch_retained,NA,Retained catch,NA,NA,NA,NA
-urn:fdi:term:catch_retained_unit,catch_retained_unit,NA,pending,fisheries,NA,simplified,attribute,catch_retained_unit,NA,Retained catch unit,NA,NA,NA,NA
-urn:fdi:term:catch_retained_status,catch_retained_status,NA,pending,fisheries,NA,simplified,attribute,catch_retained_status,NA,Retained catch status,NA,NA,NA,NA
+urn:fdi:term:catch_coefficient_variation,catch_coefficient_variation,NA,pending,fisheries,NA,simplified,variable,catch_coefficient_variation,NA,Coefficient of variation,NA,NA,NA,NA
+urn:fdi:term:catch_coefficient_variation_unit,catch_coefficient_variation_unit,NA,pending,fisheries,NA,simplified,attribute,catch_coefficient_variation_unit,NA,Coefficient of variation unit,NA,NA,NA,NA
+urn:fdi:term:catch_coefficient_variation_status,catch_coefficient_variation_status,NA,pending,fisheries,NA,simplified,attribute,catch_coefficient_variation_status,NA,Coefficient of variation status,NA,NA,NA,NA
+urn:fdi:term:catch_cpue,catch_cpue,NA,pending,fisheries,NA,simplified,variable,catch_cpue,NA,CPUE,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_unit,catch_cpue_unit,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_unit,NA,CPUE unit,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_status,catch_cpue_status,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_status,NA,CPUE status,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_spatial_accuracy,catch_cpue_spatial_accuracy,NA,pending,fisheries,NA,simplified,variable,catch_cpue_spatial_accuracy,NA,CPUE spatial accuracy,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_spatial_accuracy_unit,catch_cpue_spatial_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_spatial_accuracy_unit,NA,CPUE spatial accuracy unit,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_spatial_accuracy_status,catch_cpue_spatial_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_spatial_accuracy_status,NA,CPUE spatial accuracy status,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_temporal_accuracy,catch_cpue_temporal_accuracy,NA,pending,fisheries,NA,simplified,variable,catch_cpue_temporal_accuracy,NA,CPUE temporal accuracy,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_temporal_accuracy_unit,catch_cpue_temporal_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_temporal_accuracy_unit,NA,CPUE temporal accuracy unit,NA,NA,NA,NA
+urn:fdi:term:catch_cpue_temporal_accuracy_status,catch_cpue_temporal_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,catch_cpue_temporal_accuracy_status,NA,CPUE temporal accuracy status,NA,NA,NA,NA
 urn:fdi:term:catch_discarded,catch_discarded,NA,pending,fisheries,NA,simplified,variable,catch_discarded,NA,Discarded catch,NA,NA,NA,NA
 urn:fdi:term:catch_discarded_unit,catch_discarded_unit,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_unit,NA,Discarded catch unit,NA,NA,NA,NA
 urn:fdi:term:catch_discarded_status,catch_discarded_status,NA,pending,fisheries,NA,simplified,attribute,catch_discarded_status,NA,Discarded catch status,NA,NA,NA,NA
+urn:fdi:term:catch_fish_average_weight,catch_fish_average_weight,NA,pending,fisheries,NA,simplified,variable,catch_fish_average_weight,NA,Fish average weight,NA,NA,NA,NA
+urn:fdi:term:catch_fish_average_weight_unit,catch_fish_average_weight_unit,NA,pending,fisheries,NA,simplified,attribute,catch_fish_average_weight_unit,NA,Fish average weight unit,NA,NA,NA,NA
+urn:fdi:term:catch_fish_average_weight_status,catch_fish_average_weight_status,NA,pending,fisheries,NA,simplified,attribute,catch_fish_average_weight_status,NA,Fish average weight status,NA,NA,NA,NA
+urn:fdi:term:catch_nominal,catch_nominal,NA,pending,fisheries,NA,simplified,variable,catch_nominal,NA,Nominal catch,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_unit,catch_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_unit,NA,Nominal catch unit,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_status,catch_nominal_status,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_status,NA,Nominal catch status,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_landed,catch_nominal_landed,NA,pending,fisheries,NA,simplified,variable,catch_nominal_landed,NA,Nominal landings,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_landed_unit,catch_nominal_landed_unit,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_landed_unit,NA,Nominal landings unit,NA,NA,NA,NA
+urn:fdi:term:catch_nominal_landed_status,catch_nominal_landed_status,NA,pending,fisheries,NA,simplified,attribute,catch_nominal_landed_status,NA,Nominal landings status,NA,NA,NA,NA
+urn:fdi:term:catch_number,catch_number,NA,pending,fisheries,NA,simplified,variable,catch_number,NA,Number,NA,NA,NA,NA
+urn:fdi:term:catch_number_unit,catch_number_unit,NA,pending,fisheries,NA,simplified,attribute,catch_number_unit,NA,Number unit,NA,NA,NA,NA
+urn:fdi:term:catch_number_status,catch_number_status,NA,pending,fisheries,NA,simplified,attribute,catch_number_status,NA,Number status,NA,NA,NA,NA
+urn:fdi:term:catch_number_species,catch_number_species,NA,pending,fisheries,NA,simplified,variable,catch_number_species,NA,Number of species,NA,NA,NA,NA
+urn:fdi:term:catch_number_species_unit,catch_number_species_unit,NA,pending,fisheries,NA,simplified,attribute,catch_number_species_unit,NA,Number of species unit,NA,NA,NA,NA
+urn:fdi:term:catch_number_species_status,catch_number_species_status,NA,pending,fisheries,NA,simplified,attribute,catch_number_species_status,NA,Number of species status,NA,NA,NA,NA
+urn:fdi:term:catch_retained,catch_retained,NA,pending,fisheries,NA,simplified,variable,catch_retained,NA,Retained catch,NA,NA,NA,NA
+urn:fdi:term:catch_retained_unit,catch_retained_unit,NA,pending,fisheries,NA,simplified,attribute,catch_retained_unit,NA,Retained catch unit,NA,NA,NA,NA
+urn:fdi:term:catch_retained_status,catch_retained_status,NA,pending,fisheries,NA,simplified,attribute,catch_retained_status,NA,Retained catch status,NA,NA,NA,NA
+urn:fdi:term:catch_sample_size,catch_sample_size,NA,pending,fisheries,NA,simplified,variable,catch_sample_size,NA,Sample size,NA,NA,NA,NA
+urn:fdi:term:catch_sample_size_unit,catch_sample_size_unit,NA,pending,fisheries,NA,simplified,attribute,catch_sample_size_unit,NA,Sample size unit,NA,NA,NA,NA
+urn:fdi:term:catch_sample_size_status,catch_sample_size_status,NA,pending,fisheries,NA,simplified,attribute,catch_sample_size_status,NA,Sample size status,NA,NA,NA,NA
 urn:fdi:term:catch_spatial_accuracy,catch_spatial_accuracy,NA,pending,fisheries,NA,simplified,variable,catch_spatial_accuracy,NA,Spatial accuracy,NA,NA,NA,NA
 urn:fdi:term:catch_spatial_accuracy_unit,catch_spatial_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,catch_spatial_accuracy_unit,NA,Spatial accuracy unit,NA,NA,NA,NA
 urn:fdi:term:catch_spatial_accuracy_status,catch_spatial_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,catch_spatial_accuracy_status,NA,Spatial accuracy status,NA,NA,NA,NA
+urn:fdi:term:catch_species_ratio,catch_species_ratio,NA,pending,fisheries,NA,simplified,variable,catch_species_ratio,NA,Species ratio,NA,NA,NA,NA
+urn:fdi:term:catch_species_ratio_unit,catch_species_ratio_unit,NA,pending,fisheries,NA,simplified,attribute,catch_species_ratio_unit,NA,Species ratio unit,NA,NA,NA,NA
+urn:fdi:term:catch_species_ratio_status,catch_species_ratio_status,NA,pending,fisheries,NA,simplified,attribute,catch_species_ratio_status,NA,Species ratio status,NA,NA,NA,NA
+urn:fdi:term:catch_sui,catch_sui,NA,pending,fisheries,NA,simplified,variable,catch_sui,NA,Catch sufficient uniformity index,NA,NA,NA,NA
+urn:fdi:term:catch_sui_unit,catch_sui_unit,NA,pending,fisheries,NA,simplified,attribute,catch_sui_unit,NA,Catch sufficient uniformity index unit,NA,NA,NA,NA
+urn:fdi:term:catch_sui_status,catch_sui_status,NA,pending,fisheries,NA,simplified,attribute,catch_sui_status,NA,Catch sufficient uniformity index status,NA,NA,NA,NA
 urn:fdi:term:catch_temporal_accuracy,catch_temporal_accuracy,NA,pending,fisheries,NA,simplified,variable,catch_temporal_accuracy,NA,Temporal accuracy,NA,NA,NA,NA
 urn:fdi:term:catch_temporal_accuracy_unit,catch_temporal_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,catch_temporal_accuracy_unit,NA,Temporal accuracy unit,NA,NA,NA,NA
 urn:fdi:term:catch_temporal_accuracy_status,catch_temporal_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,catch_temporal_accuracy_status,NA,Temporal accuracy status,NA,NA,NA,NA
-urn:fdi:term:effort_nominal,effort_nominal,NA,pending,fisheries,NA,simplified,variable,effort_nominal,NA,Nominal effort,NA,NA,NA,NA
-urn:fdi:term:effort_nominal_unit,effort_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_unit,NA,Nominal effort unit,NA,NA,NA,NA
-urn:fdi:term:effort_nominal_status,effort_nominal_status,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_status,NA,Nominal effort status,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient,effort_activity_coefficient,NA,pending,fisheries,NA,simplified,variable,effort_activity_coefficient,NA,Activity coefficient,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_unit,effort_activity_coefficient_unit,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_unit,NA,Activity coefficient unit,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_status,effort_activity_coefficient_status,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_status,NA,Activity coefficient status,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_spatial_accuracy,effort_activity_coefficient_spatial_accuracy,NA,pending,fisheries,NA,simplified,variable,effort_activity_coefficient_spatial_accuracy,NA,Activity coefficient spatial accuracy,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_spatial_accuracy_unit,effort_activity_coefficient_spatial_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_spatial_accuracy_unit,NA,Activity coefficient spatial accuracy unit,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_spatial_accuracy_status,effort_activity_coefficient_spatial_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_spatial_accuracy_status,NA,Activity coefficient spatial accuracy status,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_temporal_accuracy,effort_activity_coefficient_temporal_accuracy,NA,pending,fisheries,NA,simplified,variable,effort_activity_coefficient_temporal_accuracy,NA,Activity coefficient temporal accuracy,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_temporal_accuracy_unit,effort_activity_coefficient_temporal_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_temporal_accuracy_unit,NA,Activity coefficient temporal accuracy unit,NA,NA,NA,NA
+urn:fdi:term:effort_activity_coefficient_temporal_accuracy_status,effort_activity_coefficient_temporal_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_temporal_accuracy_status,NA,Activity coefficient temporal accuracy status,NA,NA,NA,NA
+urn:fdi:term:effort_coefficient_variation,effort_coefficient_variation,NA,pending,fisheries,NA,simplified,variable,effort_coefficient_variation,NA,Coefficient of variation,NA,NA,NA,NA
+urn:fdi:term:effort_coefficient_variation_unit,effort_coefficient_variation_unit,NA,pending,fisheries,NA,simplified,attribute,effort_coefficient_variation_unit,NA,Coefficient of variation unit,NA,NA,NA,NA
+urn:fdi:term:effort_coefficient_variation_status,effort_coefficient_variation_status,NA,pending,fisheries,NA,simplified,attribute,effort_coefficient_variation_status,NA,Coefficient of variation status,NA,NA,NA,NA
 urn:fdi:term:effort_fishing_duration,effort_fishing_duration,NA,pending,fisheries,NA,simplified,variable,effort_fishing_duration,NA,Fishing duration,NA,NA,NA,NA
 urn:fdi:term:effort_fishing_duration_unit,effort_fishing_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_unit,NA,Fishing duration unit,NA,NA,NA,NA
 urn:fdi:term:effort_fishing_duration_status,effort_fishing_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_fishing_duration_status,NA,Fishing duration status,NA,NA,NA,NA
@@ -26,15 +68,24 @@ urn:fdi:term:effort_fishing_reference_period_status,effort_fishing_reference_per
 urn:fdi:term:effort_fishable_duration,effort_fishable_duration,NA,pending,fisheries,NA,simplified,variable,effort_fishable_duration,NA,Fishable duration,NA,NA,NA,NA
 urn:fdi:term:effort_fishable_duration_unit,effort_fishable_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_fishable_duration_unit,NA,Fishable duration unit,NA,NA,NA,NA
 urn:fdi:term:effort_fishable_duration_status,effort_fishable_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_fishable_duration_status,NA,Fishable duration status,NA,NA,NA,NA
-urn:fdi:term:effort_activity_coefficient,effort_activity_coefficient,NA,pending,fisheries,NA,simplified,variable,effort_activity_coefficient,NA,Activity coefficient,NA,NA,NA,NA
-urn:fdi:term:effort_activity_coefficient_unit,effort_activity_coefficient_unit,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_unit,NA,Activity coefficient unit,NA,NA,NA,NA
-urn:fdi:term:effort_activity_coefficient_status,effort_activity_coefficient_status,NA,pending,fisheries,NA,simplified,attribute,effort_activity_coefficient_status,NA,Activity coefficient status,NA,NA,NA,NA
-urn:fdi:term:effort_spatial_accuracy,effort_spatial_accuracy,NA,pending,fisheries,NA,simplified,variable,effort_spatial_accuracy,NA,Spatial accuracy,NA,NA,NA,NA
-urn:fdi:term:effort_spatial_accuracy_unit,effort_spatial_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,effort_spatial_accuracy_unit,NA,Spatial accuracy unit,NA,NA,NA,NA
-urn:fdi:term:effort_spatial_accuracy_status,effort_spatial_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,effort_spatial_accuracy_status,NA,Spatial accuracy status,NA,NA,NA,NA
-urn:fdi:term:effort_temporal_accuracy,effort_temporal_accuracy,NA,pending,fisheries,NA,simplified,variable,effort_temporal_accuracy,NA,Temporal accuracy,NA,NA,NA,NA
-urn:fdi:term:effort_temporal_accuracy_unit,effort_temporal_accuracy_unit,NA,pending,fisheries,NA,simplified,attribute,effort_temporal_accuracy_unit,NA,Temporal accuracy unit,NA,NA,NA,NA
-urn:fdi:term:effort_temporal_accuracy_status,effort_temporal_accuracy_status,NA,pending,fisheries,NA,simplified,attribute,effort_temporal_accuracy_status,NA,Temporal accuracy status,NA,NA,NA,NA
+urn:fdi:term:effort_nominal,effort_nominal,NA,pending,fisheries,NA,simplified,variable,effort_nominal,NA,Nominal effort,NA,NA,NA,NA
+urn:fdi:term:effort_nominal_unit,effort_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_unit,NA,Nominal effort unit,NA,NA,NA,NA
+urn:fdi:term:effort_nominal_status,effort_nominal_status,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_status,NA,Nominal effort status,NA,NA,NA,NA
+urn:fdi:term:effort_number_sampled_days,effort_number_sampled_days,NA,pending,fisheries,NA,simplified,variable,effort_number_sampled_days,NA,Number of sampled days,NA,NA,NA,NA
+urn:fdi:term:effort_number_sampled_days_unit,effort_number_sampled_days_unit,NA,pending,fisheries,NA,simplified,attribute,effort_number_sampled_days_unit,NA,Number of sampled days unit,NA,NA,NA,NA
+urn:fdi:term:effort_number_sampled_days_status,effort_number_sampled_days_status,NA,pending,fisheries,NA,simplified,attribute,effort_number_sampled_days_status,NA,Number of sampled days status,NA,NA,NA,NA
+urn:fdi:term:effort_sample_size,effort_sample_size,NA,pending,fisheries,NA,simplified,variable,effort_sample_size,NA,Sample size,NA,NA,NA,NA
+urn:fdi:term:effort_sample_size_unit,effort_sample_size_unit,NA,pending,fisheries,NA,simplified,attribute,effort_sample_size_unit,NA,Sample size unit,NA,NA,NA,NA
+urn:fdi:term:effort_sample_size_status,effort_sample_size_status,NA,pending,fisheries,NA,simplified,attribute,effort_sample_size_status,NA,Sample size status,NA,NA,NA,NA
+urn:fdi:term:effort_sui,effort_sui,NA,pending,fisheries,NA,simplified,variable,effort_sui,NA,Effort sufficient uniformity index,NA,NA,NA,NA
+urn:fdi:term:effort_sui_unit,effort_sui_unit,NA,pending,fisheries,NA,simplified,attribute,effort_sui_unit,NA,Effort sufficient uniformity index unit,NA,NA,NA,NA
+urn:fdi:term:effort_sui_status,effort_sui_status,NA,pending,fisheries,NA,simplified,attribute,effort_sui_status,NA,Effort sufficient uniformity index status,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_duration,effort_total_fishing_duration,NA,pending,fisheries,NA,simplified,variable,effort_total_fishing_duration,NA,Total fishing duration,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_duration_unit,effort_total_fishing_duration_unit,NA,pending,fisheries,NA,simplified,attribute,effort_total_fishing_duration_unit,NA,Total fishing duration unit,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_duration_status,effort_total_fishing_duration_status,NA,pending,fisheries,NA,simplified,attribute,effort_total_fishing_duration_status,NA,Total fishing duration status,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_reference_period,effort_total_fishing_reference_period,NA,pending,fisheries,NA,simplified,variable,effort_total_fishing_reference_period,NA,Total fishing reference period,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_reference_period_unit,effort_total_fishing_reference_period_unit,NA,pending,fisheries,NA,simplified,attribute,effort_total_fishing_reference_period_unit,NA,Total fishing reference period unit,NA,NA,NA,NA
+urn:fdi:term:effort_total_fishing_reference_period_status,effort_total_fishing_reference_period_status,NA,pending,fisheries,NA,simplified,attribute,effort_total_fishing_reference_period_status,NA,Total fishing reference period status,NA,NA,NA,NA
 urn:fdi:term:bycatch_total,bycatch_total,NA,pending,fisheries,NA,simplified,variable,bycatch_total,NA,Total bycatch,NA,NA,NA,NA
 urn:fdi:term:bycatch_total_unit,bycatch_total_unit,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_unit,NA,Total bycatch unit,NA,NA,NA,NA
 urn:fdi:term:bycatch_total_status,bycatch_total_status,NA,pending,fisheries,NA,simplified,attribute,bycatch_total_status,NA,Total bycatch status,NA,NA,NA,NA
