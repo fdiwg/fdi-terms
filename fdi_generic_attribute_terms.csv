@@ -33,3 +33,4 @@ urn:fdi:term:trade_commodity,trade_type,NA,pending,fisheries,NA,generic,attribut
 urn:fdi:term:trade_type,trade_type,NA,pending,fisheries,NA,generic,attribute,trade_type,NA,Trade type,NA,N/A,N/A,NA
 urn:fdi:term:fishing_trip,fishing_trip,NA,pending,fisheries,NA,generic,attribute,fishing_trip,NA,Fishing trip,NA,N/A,N/A,NA
 urn:fdi:term:sample_size,sample_size,NA,pending,fisheries,NA,generic,attribute,sample_size,NA,Sample size,NA,N/A,N/A,NA
+urn:fdi:term:minor_stratum,minor_stratum,NA,pending,fisheries,NA,generic,attribute,minor_stratum,NA,Minor stratum,NA,N/A,N/A,NA
