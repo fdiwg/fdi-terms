@@ -3,5 +3,6 @@ urn:fdi:term:measurement,measurement,NA,pending,measurement,NA,generic,attribute
 urn:fdi:term:measurement_type,measurement_type,NA,pending,measurement,NA,generic,attribute,measurement_type,NA,Measurement type,"Measurement type, eg. For catch: retained, discarded, nominal",NA,NA,NA
 urn:fdi:term:measurement_value,measurement_value,NA,pending,measurement,NA,generic,variable,measurement_value,NA,Measurement value,Value measured,N/A,N/A,NA
 urn:fdi:term:measurement_unit,measurement_unit,NA,pending,measurement,NA,generic,attribute,measurement_unit,NA,Measurement unit,Unit of measure for the measurement type value.,NA,NA,NA
-urn:fdi:term:measurement_obs,measurement_obs,measurement_status,deprecated,measurement,NA,generic,attribute,measurement_obs,NA,Measurement observation,NA,N/A,N/A,NA
+urn:fdi:term:measurement_obs,measurement_obs,,deprecated,measurement,NA,generic,attribute,measurement_obs,NA,Measurement observation,NA,N/A,N/A,NA
 urn:fdi:term:measurement_status,measurement_status,NA,pending,measurement,NA,generic,attribute,measurement_status,NA,Measurement status,NA,NA,NA,NA
+urn:fdi:term:measurement_processing_level,measurement_processing_level,NA,pending,measurement,NA,generic,attribute,measurement_processing_level,NA,Measurement processing level,NA,NA,NA,NA
