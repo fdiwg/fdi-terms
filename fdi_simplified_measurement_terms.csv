@@ -71,9 +71,15 @@ urn:fdi:term:effort_fishable_duration_status,effort_fishable_duration_status,NA,
 urn:fdi:term:effort_nominal,effort_nominal,NA,pending,fisheries,NA,simplified,variable,effort_nominal,NA,Nominal effort,NA,NA,NA,NA
 urn:fdi:term:effort_nominal_unit,effort_nominal_unit,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_unit,NA,Nominal effort unit,NA,NA,NA,NA
 urn:fdi:term:effort_nominal_status,effort_nominal_status,NA,pending,fisheries,NA,simplified,attribute,effort_nominal_status,NA,Nominal effort status,NA,NA,NA,NA
+urn:fdi:term:effort_number_gears,effort_number_gears,NA,pending,fisheries,NA,simplified,variable,effort_number_gears,NA,"Number of gear elements (hooks, traps, etc.)",NA,NA,NA,NA
+urn:fdi:term:effort_number_gears_unit,effort_number_gears_unit,NA,pending,fisheries,NA,simplified,attribute,effort_number_gears_unit,NA,"Number of gear elements (hooks, traps, etc.) unit",NA,NA,NA,NA
+urn:fdi:term:effort_number_gears_status,effort_number_gears_status,NA,pending,fisheries,NA,simplified,attribute,effort_number_gears_status,NA,"Number of gear elements (hooks, traps, etc.) status",NA,NA,NA,NA
 urn:fdi:term:effort_number_sampled_days,effort_number_sampled_days,NA,pending,fisheries,NA,simplified,variable,effort_number_sampled_days,NA,Number of sampled days,NA,NA,NA,NA
 urn:fdi:term:effort_number_sampled_days_unit,effort_number_sampled_days_unit,NA,pending,fisheries,NA,simplified,attribute,effort_number_sampled_days_unit,NA,Number of sampled days unit,NA,NA,NA,NA
 urn:fdi:term:effort_number_sampled_days_status,effort_number_sampled_days_status,NA,pending,fisheries,NA,simplified,attribute,effort_number_sampled_days_status,NA,Number of sampled days status,NA,NA,NA,NA
+urn:fdi:term:effort_number_sets,effort_number_sets,NA,pending,fisheries,NA,simplified,variable,effort_number_sets,NA,Number of sets,NA,NA,NA,NA
+urn:fdi:term:effort_number_sets_unit,effort_number_sets_unit,NA,pending,fisheries,NA,simplified,attribute,effort_number_sets_unit,NA,Number of sets unit,NA,NA,NA,NA
+urn:fdi:term:effort_number_sets_status,effort_number_sets_status,NA,pending,fisheries,NA,simplified,attribute,effort_number_sets_status,NA,Number of sets status,NA,NA,NA,NA
 urn:fdi:term:effort_sample_size,effort_sample_size,NA,pending,fisheries,NA,simplified,variable,effort_sample_size,NA,Sample size,NA,NA,NA,NA
 urn:fdi:term:effort_sample_size_unit,effort_sample_size_unit,NA,pending,fisheries,NA,simplified,attribute,effort_sample_size_unit,NA,Sample size unit,NA,NA,NA,NA
 urn:fdi:term:effort_sample_size_status,effort_sample_size_status,NA,pending,fisheries,NA,simplified,attribute,effort_sample_size_status,NA,Sample size status,NA,NA,NA,NA
@@ -110,3 +116,12 @@ urn:fdi:term:trade_value_status,trade_value_status,NA,pending,fisheries,NA,simpl
 urn:fdi:term:trade_price,trade_price,NA,pending,fisheries,NA,simplified,variable,trade_price,NA,Price,NA,NA,NA,NA
 urn:fdi:term:trade_price_unit,trade_price_unit,NA,pending,fisheries,NA,simplified,attribute,trade_price_unit,NA,Price unit,NA,NA,NA,NA
 urn:fdi:term:trade_price_status,trade_price_status,NA,pending,fisheries,NA,simplified,attribute,trade_price_status,NA,Price status,NA,NA,NA,NA
+urn:fdi:term:bio_length,bio_length,NA,pending,fisheries,NA,simplified,variable,bio_length,NA,Length,NA,NA,NA,NA
+urn:fdi:term:bio_length_unit,bio_length_unit,NA,pending,fisheries,NA,simplified,attribute,bio_length_unit,NA,Length unit,NA,NA,NA,NA
+urn:fdi:term:bio_length_status,bio_length_status,NA,pending,fisheries,NA,simplified,attribute,bio_length_status,NA,Length status,NA,NA,NA,NA
+urn:fdi:term:bio_weight,bio_weight,NA,pending,fisheries,NA,simplified,variable,bio_weight,NA,Weight,NA,NA,NA,NA
+urn:fdi:term:bio_weight_unit,bio_weight_unit,NA,pending,fisheries,NA,simplified,attribute,bio_weight_unit,NA,Weight unit,NA,NA,NA,NA
+urn:fdi:term:bio_weight_status,bio_weight_status,NA,pending,fisheries,NA,simplified,attribute,bio_weight_status,NA,Weight status,NA,NA,NA,NA
+urn:fdi:term:bio_number_of_individuals,bio_number_of_individuals,NA,pending,fisheries,NA,simplified,variable,bio_number_of_individuals,NA,Number of individuals,NA,NA,NA,NA
+urn:fdi:term:bio_number_of_individuals_unit,bio_number_of_individuals_unit,NA,pending,fisheries,NA,simplified,attribute,bio_number_of_individuals_unit,NA,Number of individuals unit,NA,NA,NA,NA
+urn:fdi:term:bio_number_of_individuals_status,bio_number_of_individuals_status,NA,pending,fisheries,NA,simplified,attribute,bio_number_of_individuals_status,NA,Number of individuals status,NA,NA,NA,NA
